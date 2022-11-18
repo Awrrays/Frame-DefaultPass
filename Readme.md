@@ -76,3 +76,4 @@
 | EPON 网络管理系统                                            | Admin/123456                                                 |
 | OfficeTen上网行为管理                                        | Useradmin/admin!@#$%^                                        |
 | 中创中间件(InforSuite AS)                                        | admin/Cvicse@as123                                        |
+| O2OA                                        | xadmin/o2                                        |
