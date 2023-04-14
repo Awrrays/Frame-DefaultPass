@@ -77,3 +77,5 @@
 | OfficeTen上网行为管理                                        | Useradmin/admin!@#$%^                                        |
 | 中创中间件(InforSuite AS)                                        | admin/Cvicse@as123                                        |
 | O2OA                                        | xadmin/o2                                        |
+| 猎鹰安全-金山V8+终端安全系统/Kingsoft V8                    | admin/admin                                      |
+| 艾泰科技(UTT-Device)                    | admin/admin                                      |
