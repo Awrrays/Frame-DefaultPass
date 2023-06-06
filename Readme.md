@@ -70,6 +70,7 @@
 | ERG2-1350W 路由器                                            | admin/admin                                                  |
 | Ceph分布式文件系统                                           | admin/admin                                                  |
 | 绿盟IPS/IDS                                                  | admin/Nsfocus@123                                            |
+| 绿盟 UTS综合威胁探针                                                  | admin/Nsfocus@123 <br/>auditor/auditor                                         |
 | 山石防火墙                                                   | hillstone/hillstone                                          |
 | 六方云工业网闸                                               | secadmin/zxas6cld                                            |
 | 天玥网络安全审计系统                                         | admin/venus@2018                                             |
