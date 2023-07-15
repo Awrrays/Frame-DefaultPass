@@ -1,8 +1,9 @@
-![image](https://github.com/Awrrays/Frame-DefaultPass/assets/55682880/cc09953b-e514-4c4a-b09d-55274fef1394)# Frame-DefaultPass
+# Frame-DefaultPass
 
 | Frame                                                        | DefaultPass                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Oms呼叫中心                                       |      KXTsoft2010   |
+| Glodon控制台    | admin|
 | TRENDnet趋势网络摄像头                                       | admin/admin                                                  |
 | MOBOTIX-视频监控                                             | admin/meinsm                                                 |
 | 思科Cisco                                                    | 没有原始密码, 第一次登录时需要创建                           |
