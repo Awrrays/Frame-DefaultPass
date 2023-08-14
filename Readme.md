@@ -84,3 +84,4 @@
 | 艾泰科技(UTT-Device)                    | admin/admin                                      |
 | KubePi                    | admin/kubepi                                      |
 | 泛微 E-Office                    | admin/<空>                                      |
+| Kuboard                    | admin/kuboard123                                   |
