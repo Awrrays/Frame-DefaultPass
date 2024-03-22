@@ -2,7 +2,7 @@
 
 | Frame                                                        | DefaultPass                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| SPUG-运维平台                                       |      admin/spug.dev   |
+| SPUG-运维平台                                       |      admin/spug.dev/spug.cc/abc   |
 | Oms呼叫中心                                       |      KXTsoft2010   |
 | Glodon控制台    | admin|
 | TRENDnet趋势网络摄像头                                       | admin/admin                                                  |
